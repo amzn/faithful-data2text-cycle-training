@@ -1,3 +1,5 @@
+## Faithful Low-Resource Data-to-Text Generation Through Cycle Training
+
 This repository contains the source code for the ACL 2023 paper: [Faithful Low-Resource Data-to-Text Generation through Cycle Training](https://aclanthology.org/2023.acl-long.160.pdf)
 
 ## How to Run
